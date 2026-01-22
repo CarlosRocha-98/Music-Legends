@@ -25,7 +25,7 @@
 ![Desktop](https://github.com/CarlosRocha-98/Music_Legends/blob/main/Music.PNG)
 
 ### 🔳 Visualização Tablet
-![Tablet]()
+![Tablet](https://github.com/CarlosRocha-98/Music_Legends/blob/main/Tablet.png)
 
 ### 📱 Visualização Mobile
 ![Mobile](https://github.com/CarlosRocha-98/Music_Legends/blob/main/Mobile.png)
