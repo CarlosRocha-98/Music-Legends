@@ -1,4 +1,4 @@
-# 🌍 Music-Legends
+# 🌍 Music Legends
 
 ![Status](https://img.shields.io/badge/status-online-success)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
