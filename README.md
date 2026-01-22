@@ -28,7 +28,7 @@
 ![Tablet]()
 
 ### 📱 Visualização Mobile
-![Mobile]()
+![Mobile](https://github.com/CarlosRocha-98/Music_Legends/blob/main/Mobile.png)
 
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
