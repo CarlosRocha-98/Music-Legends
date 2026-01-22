@@ -32,4 +32,13 @@
 
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
+---
+
+## 👨‍💻 Autor
+### Carlos Rocha
+- :briefcase: [Linkedln](https://www.linkedin.com/in/carlosjoaquimrocha/)
+- :e-mail: [Email](mailto:ckrocha04@gmail.com)
+
+---
+
 <a href="https://music-legends-eight.vercel.app/">Acesse o site aqui</a>
